@@ -72,7 +72,7 @@ Features
     
 2. Setup and Installation
 Prerequisites
-Python installed (version 3.10 0r later
+Python installed (version 3.10 0r later)
 Internet connection for some functionalities
 Installation Steps
 Clone the repository: git clone https://github.com/896ma/AI Assistant.git
