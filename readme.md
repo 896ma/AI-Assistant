@@ -137,4 +137,7 @@ Modifying Activation Word
  -Modify the activation word by changing the keyword in the if "Eddy" in instruction statement.
 
 
+Exit  Application
+- the program can come to a stop  by implementing the python  quit() function when the key words exit program are mentioned.
+
 
