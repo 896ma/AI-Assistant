@@ -25,6 +25,7 @@ Overview
     • File Structure
     • Modules and Dependencies
     • Usage
+    
 Running the Voice Assistant
 Code Explanation
 
@@ -68,7 +69,7 @@ Features
     • pywhatkit library
     • datetime module
     • Wikipedia API
-    • 
+    
 2. Setup and Installation
 Prerequisites
 Python installed (version 3.10 0r later
