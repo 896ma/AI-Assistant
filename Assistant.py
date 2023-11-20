@@ -25,8 +25,8 @@ def input_instruction():
             instruction = listener.recognize_google(speech)
             instruction = instruction.lower()
 
-            if "Eddy" in instruction:  # activation word
-                instruction = instruction.replace('Eddy', "")
+            if "eddy" in instruction:  # activation word
+                instruction = instruction.replace('eddy', "")
                 print(instruction)
 
     except aa.UnknownValueError:
@@ -43,39 +43,46 @@ def input_instruction():
 
 
 def play_Eddy():
-    instruction = input_instruction()
-    print(instruction)
+    while True:
+        instruction = input_instruction()
+        print(instruction)
 
-    # Adding conditional statements to implement functionalities
-    if "play" in instruction:
-        song = instruction.replace("play", "")
-        talk("Playing " + song)
-        pywhatkit.playonyt(song)
+        # Check if the user wants to exit
+        if 'exit program' in instruction:
+            print('Goodbye! I hope to interact with you later : )')
+            talk("Goodbye! I hope to interact with you later ")
+            break  # Exit the loop and end the program
 
-    elif 'time' in instruction:
-        current_time = datetime.datetime.now().strftime('%I:%M:%p')
-        talk('The current time is ' + current_time)
+        # Adding conditional statements to implement functionalities
+        if "play" in instruction:
+            song = instruction.replace("play", "")
+            talk("Playing " + song)
+            pywhatkit.playonyt(song)
 
-    elif 'date' in instruction:
-        current_date = datetime.datetime.now().strftime('%dth of %m , %Y')
-        talk("Today's date " + current_date)
+        elif 'time' in instruction:
+            current_time = datetime.datetime.now().strftime('%I:%M:%p')
+            talk('The current time is ' + current_time)
 
-    elif 'hello' in instruction:
-        talk('Greetings Developer!')
+        elif 'date' in instruction:
+            current_date = datetime.datetime.now().strftime('%dth of %m , %Y')
+            talk("Today's date " + current_date)
 
-    elif 'identify yourself' in instruction:
-        print('My name is Eddy , A  high level AI Assistant, what can I do for you today :)')
-        talk('My name is Eddy , A  high level AI Assistant, what can I do for you today ')
+        elif 'hello' in instruction:
+            talk('Greetings Developer!')
 
-    elif 'search' in instruction:
-        finder = instruction.replace('search', "")
-        info = wikipedia.summary(finder, 1)
-        print(info)
-        talk(info)
+        elif ' who are you' in instruction:
+            print('My name is  Eddy,A  High Level AI Assistant , what can I do for you today :)')
+            talk('My name is  Eddy,A  High Level AI Assistant , what can I do for you today ')
 
-    else:
-        print("Sorry but I did not quite catch that. Please repeat :)")
-        talk("Sorry but I did not quite catch that. Please repeat")
+        elif 'search' in instruction:
+            finder = instruction.replace('search', "")
+            info = wikipedia.summary(finder, 1)
+            print(info)
+            talk(info)
+
+        else:
+            print("Sorry but I did not quite catch that. Please repeat :)")
+            talk("Sorry but I did not quite catch that. Please repeat")
 
 
 play_Eddy()
