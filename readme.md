@@ -12,7 +12,7 @@ Overview
     • Purpose  
     • Features
     • Technologies Used  
-    • Setup a
+    • Setup 
     • Prerequisites
     • Installation Steps
     • Functionality
