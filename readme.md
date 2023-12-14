@@ -12,7 +12,7 @@ Overview
     • Purpose  
     • Features
     • Technologies Used  
-    • Setup 
+    • Setu
     • Prerequisites
     • Installation Steps
     • Functionality
