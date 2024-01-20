@@ -9,7 +9,7 @@ Introduction
 
 Overview
     • 
-    • Purpose  
+    • Purpose    
     • Features
     • Technologies Used  
     • Setup and installation
