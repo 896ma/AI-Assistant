@@ -8,7 +8,7 @@ Table of Contents
 Introduction
 
 Overview
-    • 
+    
     • Purpose    
     • Features
     • Technologies Used  
