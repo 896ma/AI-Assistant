@@ -14,10 +14,10 @@ Overview
     • Technologies Used  
     • Setup and installation
     • Prerequisites   
-    • Installation Steps
-    • Functionality
+    • Installation Steps 
+    • Functionality 
     • Voice Recognition
-    • Text-to-Speech
+    • Text-to-Speech 
     • YouTube Video Playback
     • Date and Time Information
     • Wikipedia Search
