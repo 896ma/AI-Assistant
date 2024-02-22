@@ -21,7 +21,7 @@ Overview
     • YouTube Video Playback
     • Date and Time Information
     • Wikipedia Search
-    • Project Structure
+    • Project Structure 
     • File Structure
     • Modules and Dependencies
     • Usage
