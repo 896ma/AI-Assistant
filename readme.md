@@ -6,7 +6,7 @@ Project Documentation: Voice Assistant (Eddy)
 Table of Contents
 
 Introduction
-
+   
 Overview
     
     • Purpose     
