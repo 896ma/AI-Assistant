@@ -40,7 +40,7 @@ Customization
 Adding New Functionalities
 Modifying Activation Word
 Known Issues and Future Improvements
-Potential Improvements
+Potential Improvements 
 Contributing
 Guidelines for Contributions
 
