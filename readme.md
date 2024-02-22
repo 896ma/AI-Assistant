@@ -20,7 +20,7 @@ Overview
     • Text-to-Speech 
     • YouTube Video Playback
     • Date and Time Information
-    • Wikipedia Search
+    • Wikipedia Search 
     • Project Structure 
     • File Structure
     • Modules and Dependencies
