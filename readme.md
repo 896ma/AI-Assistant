@@ -56,7 +56,7 @@ Purpose
 The purpose of Eddy is to create a simple and customizable voice assistant that can assist users with everyday tasks using natural language commands.
 
 Features
-
+ 
     • Speech recognition for user input
     • Text-to-speech for responses
     • YouTube video playback
