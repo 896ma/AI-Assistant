@@ -7,7 +7,7 @@ Table of Contents
 
 Introduction
    
-Overview
+Overview  
     
     • Purpose     
     • Features
@@ -44,7 +44,7 @@ Potential Improvements
 Contributing
 Guidelines for Contributions
 
-
+  
 
 1. Introduction
 Overview
