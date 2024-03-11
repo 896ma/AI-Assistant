@@ -129,7 +129,7 @@ The project includes error handling for potential issues during speech recogniti
 Handling Exceptions
 -Various exceptions are handled, providing appropriate messages to the user for a better experience.
 
-8. Customization
+8. Customization  
 Adding New Functionalities
 To add new functionalities, extend the conditional statements in the play_Eddy function.
 
