@@ -14,7 +14,7 @@ Overview
     • Technologies Used  
     • Setup and installation
     • Prerequisites   
-    • Installation Steps 
+    • Installation Steps    
     • Functionality 
     • Voice Recognition
     • Text-to-Speech 
