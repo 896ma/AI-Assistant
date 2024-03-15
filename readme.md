@@ -45,12 +45,12 @@ Contributing
 Guidelines for Contributions
 
   
-
-1. Introduction
-Overview
+   
+1. Introduction 
+Overview 
 
 The Voice Assistant project, named Eddy, is designed to perform various tasks through voice commands. Users can interact with Eddy by speaking commands, and the assistant responds accordingly. The project incorporates speech recognition, text-to-speech conversion, and integration with external APIs to provide functionalities like playing YouTube videos, retrieving date and time information, and searching Wikipedia.
-
+ 
 Purpose 
 
 The purpose of Eddy is to create a simple and customizable voice assistant that can  assist users with everyday tasks using natural language commands.
