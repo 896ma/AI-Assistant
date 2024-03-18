@@ -11,7 +11,7 @@ Overview
     
     • Purpose     
     • Features
-    • Technologies Used  
+    • Technology  Used  
     • Setup and installation
     • Prerequisites   
     • Installation Steps    
