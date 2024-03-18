@@ -15,7 +15,7 @@ Overview
     • Setup and installation
     • Prerequisites   
     • Installation Steps    
-    • Functionality of 
+    • Functionality of the
     • Voice Recognition
     • Text-to-Speech 
     • YouTube Video Playback
