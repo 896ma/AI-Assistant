@@ -80,6 +80,8 @@ Navigate to the project directory: cd voice-assistant
 Install dependencies: pip install -r requirements.txt
 
 3. Functionality
+
+   
 Voice Recognition
  -Eddy uses the SpeechRecognition library to capture and interpret voice commands from the user.
 
