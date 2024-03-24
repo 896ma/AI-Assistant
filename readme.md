@@ -12,7 +12,7 @@ Overview
     • Purpose     
     • Features
     • Technology  Used  
-    • Setup and installation
+    • Setup and installation 
     • Prerequisites    
     • Installation Steps    
     • Functionality of the system 
@@ -28,7 +28,7 @@ Overview
     
 Running the Voice Assistant
 Code Explanation
-
+  
   talk Function
   input_instruction Function
   play_Eddy Function
