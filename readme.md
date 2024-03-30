@@ -13,7 +13,7 @@ Overview
     • Features
     • Technology  Used  
     • Setup and installation 
-    • Prerequisites    
+    • Prerequisites     
     • Installation Steps    
     • Functionality of the system 
     • Voice Recognition
