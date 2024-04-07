@@ -10,8 +10,8 @@ Introduction
 Overview  
     
     • Purpose     
-    • Features
-    • Technology  Used  
+    • Features 
+    • Technology  Used    
     • Setup and installation 
     • Prerequisites     
     • Installation Steps    
