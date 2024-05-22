@@ -36,7 +36,7 @@ Code Explanation
 
 Handling Speech Recognition Errors
 Handling Exceptions
-Customization
+Customization 
 Adding New Functionalities
 Modifying Activation Word
 Known Issues and Future Improvements
